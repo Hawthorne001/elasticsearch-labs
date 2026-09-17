@@ -2,7 +2,7 @@
 
 Logs Cursor AI agent tool calls to date-rotated JSONL files for security monitoring. Covers both the **Cursor IDE** and the **Cursor CLI** (`cursor-agent`). Elastic Agent picks up the logs via filestream and ships them to Elasticsearch.
 
-> For background and context, see the accompanying blog post: `<BLOG_POST_URL>`
+> For background and context, see the accompanying blog post: <https://www.elastic.co/security-labs/blog/ai-coding-agent-audit-cursor-hooks>
 
 ## How it works
 
